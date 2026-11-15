@@ -1,0 +1,9 @@
+title,agency,url,access_date,units,use,limits
+NASA Space Apps Challenge 2026 — Junior Astronaut Mission Trainer,NASA,https://www.spaceappschallenge.org/2026/challenges/junior-astronaut-mission-trainer/,2026-11,n/a,Challenge definition and required learning goals,Challenge brief only; not operational data
+Artemis Program,NASA,https://www.nasa.gov/specials/artemis/,2026-11,n/a,Moon exploration context and mission motivation,Public education material
+NASA Moon Overview,NASA,https://www.nasa.gov/moon/,2026-11,n/a,Lunar environment facts for scenarios,Public education pages
+Mars Exploration Program,NASA,https://mars.nasa.gov/,2026-11,n/a,Mars environment and dust-storm context,Public education pages
+NASA Open APIs,NASA,https://api.nasa.gov/,2026-11,varies,Optional live data access,Rate-limited; DEMO_KEY for exploration
+DONKI — Space Weather Database,NASA,https://ccmc.gsfc.nasa.gov/donki/,2026-11,varies,Educational context for solar-event scenarios,Not used to compute real radiation doses
+NASA Life Support & Habitation Systems (overview pages),NASA,https://www.nasa.gov/,2026-11,n/a,General life-support concepts,High-level public descriptions only
+Google Gemini API documentation,Google,https://ai.google.dev/gemini-api/docs,2026-11,n/a,AI Mission Coach implementation reference,Third-party API; subject to current terms and free-tier limits
